@@ -21,9 +21,13 @@ Distracted driver detection
 ![systemDesign3](https://user-images.githubusercontent.com/69352154/184199148-230ffb08-4309-483a-8da4-31a94a29d80f.png)
 
 
-## Steps
+## System Architecture 
+
+System Architectures are an essential part of developing and maintaining systems primarily because they are like blueprints of a software. 
+![systemDesign4](https://user-images.githubusercontent.com/69352154/184199737-52a8ec74-fa91-4475-873c-922bcfcec81c.png)
+
 
 ![image](https://user-images.githubusercontent.com/69352154/184196918-dac4832a-a301-40a6-862d-58520d8752d8.png)
 
-### Setup
+### fin
 
