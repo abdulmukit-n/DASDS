@@ -29,7 +29,7 @@ System Architectures are an essential part of developing and maintaining systems
 
 ![image](https://user-images.githubusercontent.com/69352154/184196918-dac4832a-a301-40a6-862d-58520d8752d8.png)
 
-##Deployment Architecture 
+## Deployment Architecture 
 
 The Deployment Diagram is used to depict the running environment of the system. The Mobile Application will be an Android Application, developed using a java framework known as Koltin. Our Application Programming Interface (API) will be developed using Node.js. Moving on, our Database Instance will be of MongoDB which is in JSON format this will be linked with our API using a Node.js local server on the raspberry pi. We will be using Python to develop our neural networks and machine learning models.
 
